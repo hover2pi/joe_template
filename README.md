@@ -38,7 +38,7 @@ The package also contains detailed Jupyter notebooks highlighting the core funct
 
 Here is a demo of the software with at least one nice plot.
 
-![png](joe_template/figures/plot.png)
+![png](figures/plot.png)
 
 ## Licensed
 
