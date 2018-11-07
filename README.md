@@ -34,6 +34,12 @@ The package also contains detailed Jupyter notebooks highlighting the core funct
 
 - [joe_template.myclass.MyClass](https://github.com/hover2pi/joe_template/blob/master/joe_template/notebooks/notebook.ipynb)
 
+## Demo
+
+Here is a demo of the software with at least one nice plot.
+
+![png](joe_template/figures/demo.png)
+
 ## Licensed
 
 This project is Copyright (c) Joe Filippazzo and licensed under the terms of the BSD 3-Clause license. See LICENSE for more information.
