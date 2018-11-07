@@ -32,7 +32,7 @@ Full documentation for the latest build can be found on [ReadTheDocs](https://jo
 
 The package also contains detailed Jupyter notebooks highlighting the core functionality of its primary classes, including
 
-- [joe_template.modules.MyClass](https://github.com/hover2pi/joe_template/blob/master/joe_template/notebooks/notebook.ipynb)
+- [joe_template.modules.MyClass](https://github.com/hover2pi/joe_template/blob/master/notebooks/notebook.ipynb)
 
 ## Demo
 
