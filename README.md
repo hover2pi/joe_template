@@ -36,13 +36,15 @@ The package also contains detailed Jupyter notebooks highlighting the core funct
 
 ## Demo
 
-Here is a demo of the software with at least one nice plot.
+Here is a demo of the software with some code snippets:
 
 ```
 from joe_template import MyClass
 mc = MyClass('Great package!')
 print(mc.words)
 ```
+
+And at least one nice plot:
 
 ![png](figures/plot.png)
 
