@@ -21,8 +21,6 @@ env:
 
 before_install:
   - export PATH="$HOME/miniconda3/bin:$PATH"
-  - pip install pytest pytest-cov
-  - pip install coveralls
 
 install:
   - ci/install_conda.sh
