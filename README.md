@@ -2,7 +2,7 @@
 A repository template with working Travis CI, ReadTheDocs, and Jupyter Notebook
 
 [![Build Status](https://travis-ci.org/hover2pi/joe_template.svg?branch=master)](https://travis-ci.org/hover2pi/joe_template)
-[![Coverage Status](https://coveralls.io/repos/github/hover2pi/joe_template/badge.svg?branch=master)](https://coveralls.io/github/hover2pi/joe_template?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/hover2pi/joe_template/badge.svg?branch=master&service=github)](https://coveralls.io/github/hover2pi/joe_template?branch=master&service=github)
 [![Documentation Status](https://readthedocs.org/projects/joe_template/badge/?version=latest)](https://joe_template.readthedocs.io/en/latest/?badge=latest)
 
 This is the descripion of the software.
