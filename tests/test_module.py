@@ -17,6 +17,3 @@ class TestStuff(unittest.TestCase):
 
         # Here's another
         self.assertTrue(mc.words == 'Here are the words!')
-
-if __name__ == '__main__':
-    unittest.main()
